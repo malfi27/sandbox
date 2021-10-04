@@ -1,0 +1,8 @@
+.sidenav {
+    background: linear-gradient(124.88deg, #3B533B 18.16%, #97BB7D 108.11%);
+    top: 0;
+}
+.sidenav-search {
+    display: flex;
+    align-items: center;
+}
